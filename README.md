@@ -11,4 +11,10 @@
 | 09. Telecom | **Предложение тарифного плана.** В этом проекте представлено построение моделей машинного обучения для того, чтобы помочь оператору мобильной связи сделать предложение нового тарифа своим клиентам в зависимости от их потребительских особенностей. | **Классификация** | Sklearn |
 | 10. Games_Analis | **Анализ Компьютерных игр.** В этом проекте Нужно выявить определяющие успешность игры закономерности. | **EDA** | pandas, numpy, matplotlib, seaborn, scipy |
 
+---
+
 ![Диплом ЯндексПрактикума "DataScience"](https://github.com/DmitryNorkin/YandexPracticum_DataScience_projects/blob/main/ДипломDS(рус).png)
+
+---
+
+![Диплом ЯндексПрактикума(eng) "DataScience"](https://github.com/DmitryNorkin/YandexPracticum_DataScience_projects/blob/main/ДипломDS(eng).png)
