@@ -1,5 +1,5 @@
 | Проект | Описание проекта | Задача | Библиотеки |
-| :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | 01. [Final_proj_telecom](https://github.com/DmitryNorkin/YandexPracticum_DataScience_projects/tree/main/01.%20Final_proj_telecom) | **Финальный проект (Telecom).** В этом проекте выполняли задачу бинарной классификации для Телеком-компании, чтобы прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, компания предложит такому клиенту промокоды и специальные условия. | **Классификация** | Pandas, Numpy, Scipy,lightgbm, catboost, Sklearn, phik, matplotlib, seaborn |
 | 02. [Toxic_comments](https://github.com/DmitryNorkin/YandexPracticum_DataScience_projects/tree/main/02.%20Toxic_comments) | **Определение токсичности комментариев.** Необходимо Обучить модель, которая будет классифицировать комментарии на позитивные и негативные. | **NLP** | Spacy, re |
 | 03. [Taxi](https://github.com/DmitryNorkin/YandexPracticum_DataScience_projects/tree/main/03.%20Taxi) | **Прогноз Количества заказов такси на следующий час.** В данном Проекте для того, чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. | **Анализ Временных рядов** | statsmodels, matplotlib, seaborn, lightgbm, catboost Sklearn |
