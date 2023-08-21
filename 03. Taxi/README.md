@@ -1,17 +1,3 @@
-<div id="badges">
-  <a href="Количество заказов такси на следующий час">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[link to your Medium profile]">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
-  <a href="[link to your Tableau profile]">
-    <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
-  </a>
-</div>
-
-
-
 **"Количество заказов такси на следующий час"**
 
 **Цель:**
